@@ -1,0 +1,1066 @@
+fileFormatVersion: 2
+guid: caa29dffc18f8f54d8e0c62405096143
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2516509151142947194
+    second: DALL_E-2024-06-27-02.22.37-Create-a-logo-for-a-mobile-game-titled-_Ascend_-Mountain-Puzzles_-removebg-preview_0
+  - first:
+      213: 8933957469713319212
+    second: DALL_E-2024-06-27-02.22.37-Create-a-logo-for-a-mobile-game-titled-_Ascend_-Mountain-Puzzles_-removebg-preview_1
+  - first:
+      213: 7957362252051682011
+    second: DALL_E-2024-06-27-02.22.37-Create-a-logo-for-a-mobile-game-titled-_Ascend_-Mountain-Puzzles_-removebg-preview_2
+  - first:
+      213: 7924234383084460421
+    second: DALL_E-2024-06-27-02.22.37-Create-a-logo-for-a-mobile-game-titled-_Ascend_-Mountain-Puzzles_-removebg-preview_3
+  - first:
+      213: 5638623189775304852
+    second: DALL_E-2024-06-27-02.22.37-Create-a-logo-for-a-mobile-game-titled-_Ascend_-Mountain-Puzzles_-removebg-preview_4
+  - first:
+      213: 4901273352961928778
+    second: DALL_E-2024-06-27-02.22.37-Create-a-logo-for-a-mobile-game-titled-_Ascend_-Mountain-Puzzles_-removebg-preview_5
+  - first:
+      213: 7818024270041580210
+    second: DALL_E-2024-06-27-02.22.37-Create-a-logo-for-a-mobile-game-titled-_Ascend_-Mountain-Puzzles_-removebg-preview_6
+  - first:
+      213: 2771089489939119615
+    second: DALL_E-2024-06-27-02.22.37-Create-a-logo-for-a-mobile-game-titled-_Ascend_-Mountain-Puzzles_-removebg-preview_7
+  - first:
+      213: 7597378561801014908
+    second: DALL_E-2024-06-27-02.22.37-Create-a-logo-for-a-mobile-game-titled-_Ascend_-Mountain-Puzzles_-removebg-preview_8
+  - first:
+      213: 6987279208876265117
+    second: DALL_E-2024-06-27-02.22.37-Create-a-logo-for-a-mobile-game-titled-_Ascend_-Mountain-Puzzles_-removebg-preview_9
+  - first:
+      213: 452797526453224694
+    second: DALL_E-2024-06-27-02.22.37-Create-a-logo-for-a-mobile-game-titled-_Ascend_-Mountain-Puzzles_-removebg-preview_10
+  - first:
+      213: -3123907320754900949
+    second: DALL_E-2024-06-27-02.22.37-Create-a-logo-for-a-mobile-game-titled-_Ascend_-Mountain-Puzzles_-removebg-preview_11
+  - first:
+      213: -297204928153647089
+    second: DALL_E-2024-06-27-02.22.37-Create-a-logo-for-a-mobile-game-titled-_Ascend_-Mountain-Puzzles_-removebg-preview_12
+  - first:
+      213: 6810047341307690819
+    second: DALL_E-2024-06-27-02.22.37-Create-a-logo-for-a-mobile-game-titled-_Ascend_-Mountain-Puzzles_-removebg-preview_13
+  - first:
+      213: 8661641553736492113
+    second: DALL_E-2024-06-27-02.22.37-Create-a-logo-for-a-mobile-game-titled-_Ascend_-Mountain-Puzzles_-removebg-preview_14
+  - first:
+      213: 6137390517489828212
+    second: DALL_E-2024-06-27-02.22.37-Create-a-logo-for-a-mobile-game-titled-_Ascend_-Mountain-Puzzles_-removebg-preview_15
+  - first:
+      213: 2457527080362069766
+    second: DALL_E-2024-06-27-02.22.37-Create-a-logo-for-a-mobile-game-titled-_Ascend_-Mountain-Puzzles_-removebg-preview_16
+  - first:
+      213: 1146125821803743708
+    second: DALL_E-2024-06-27-02.22.37-Create-a-logo-for-a-mobile-game-titled-_Ascend_-Mountain-Puzzles_-removebg-preview_17
+  - first:
+      213: 4361837077900433889
+    second: DALL_E-2024-06-27-02.22.37-Create-a-logo-for-a-mobile-game-titled-_Ascend_-Mountain-Puzzles_-removebg-preview_18
+  - first:
+      213: -6728077067105795673
+    second: DALL_E-2024-06-27-02.22.37-Create-a-logo-for-a-mobile-game-titled-_Ascend_-Mountain-Puzzles_-removebg-preview_19
+  - first:
+      213: 2340859310129903552
+    second: DALL_E-2024-06-27-02.22.37-Create-a-logo-for-a-mobile-game-titled-_Ascend_-Mountain-Puzzles_-removebg-preview_20
+  - first:
+      213: -6517456001823284519
+    second: DALL_E-2024-06-27-02.22.37-Create-a-logo-for-a-mobile-game-titled-_Ascend_-Mountain-Puzzles_-removebg-preview_21
+  - first:
+      213: -4880994051679767043
+    second: DALL_E-2024-06-27-02.22.37-Create-a-logo-for-a-mobile-game-titled-_Ascend_-Mountain-Puzzles_-removebg-preview_22
+  - first:
+      213: 1765232803053937974
+    second: DALL_E-2024-06-27-02.22.37-Create-a-logo-for-a-mobile-game-titled-_Ascend_-Mountain-Puzzles_-removebg-preview_23
+  - first:
+      213: -7121187700303785299
+    second: DALL_E-2024-06-27-02.22.37-Create-a-logo-for-a-mobile-game-titled-_Ascend_-Mountain-Puzzles_-removebg-preview_24
+  - first:
+      213: -5989454979188171195
+    second: DALL_E-2024-06-27-02.22.37-Create-a-logo-for-a-mobile-game-titled-_Ascend_-Mountain-Puzzles_-removebg-preview_25
+  - first:
+      213: 8864534605199068088
+    second: DALL_E-2024-06-27-02.22.37-Create-a-logo-for-a-mobile-game-titled-_Ascend_-Mountain-Puzzles_-removebg-preview_26
+  - first:
+      213: 7860860011305461980
+    second: DALL_E-2024-06-27-02.22.37-Create-a-logo-for-a-mobile-game-titled-_Ascend_-Mountain-Puzzles_-removebg-preview_27
+  - first:
+      213: 8803800259140668303
+    second: DALL_E-2024-06-27-02.22.37-Create-a-logo-for-a-mobile-game-titled-_Ascend_-Mountain-Puzzles_-removebg-preview_28
+  - first:
+      213: 3769408393752015777
+    second: DALL_E-2024-06-27-02.22.37-Create-a-logo-for-a-mobile-game-titled-_Ascend_-Mountain-Puzzles_-removebg-preview_29
+  - first:
+      213: 6480727407823052955
+    second: DALL_E-2024-06-27-02.22.37-Create-a-logo-for-a-mobile-game-titled-_Ascend_-Mountain-Puzzles_-removebg-preview_30
+  - first:
+      213: 6634522537420212486
+    second: DALL_E-2024-06-27-02.22.37-Create-a-logo-for-a-mobile-game-titled-_Ascend_-Mountain-Puzzles_-removebg-preview_31
+  - first:
+      213: 5108127948703143084
+    second: DALL_E-2024-06-27-02.22.37-Create-a-logo-for-a-mobile-game-titled-_Ascend_-Mountain-Puzzles_-removebg-preview_32
+  - first:
+      213: -6689496360949911619
+    second: DALL_E-2024-06-27-02.22.37-Create-a-logo-for-a-mobile-game-titled-_Ascend_-Mountain-Puzzles_-removebg-preview_33
+  - first:
+      213: -866935439042237690
+    second: DALL_E-2024-06-27-02.22.37-Create-a-logo-for-a-mobile-game-titled-_Ascend_-Mountain-Puzzles_-removebg-preview_34
+  - first:
+      213: 4977055914141638256
+    second: DALL_E-2024-06-27-02.22.37-Create-a-logo-for-a-mobile-game-titled-_Ascend_-Mountain-Puzzles_-removebg-preview_35
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DALL_E-2024-06-27-02.22.37-Create-a-logo-for-a-mobile-game-titled-_Ascend_-Mountain-Puzzles_-removebg-preview_0
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 347
+        width: 51
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7925eb6dbf6ce220800000000000000
+      internalID: 2516509151142947194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DALL_E-2024-06-27-02.22.37-Create-a-logo-for-a-mobile-game-titled-_Ascend_-Mountain-Puzzles_-removebg-preview_1
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 264
+        width: 302
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c25c5bc0cfacbfb70800000000000000
+      internalID: 8933957469713319212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DALL_E-2024-06-27-02.22.37-Create-a-logo-for-a-mobile-game-titled-_Ascend_-Mountain-Puzzles_-removebg-preview_2
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 237
+        width: 162
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd294aeeeca3e6e60800000000000000
+      internalID: 7957362252051682011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DALL_E-2024-06-27-02.22.37-Create-a-logo-for-a-mobile-game-titled-_Ascend_-Mountain-Puzzles_-removebg-preview_3
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 249
+        width: 68
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5899fa0ef2988fd60800000000000000
+      internalID: 7924234383084460421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DALL_E-2024-06-27-02.22.37-Create-a-logo-for-a-mobile-game-titled-_Ascend_-Mountain-Puzzles_-removebg-preview_4
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 213
+        width: 45
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49846d89ae9604e40800000000000000
+      internalID: 5638623189775304852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DALL_E-2024-06-27-02.22.37-Create-a-logo-for-a-mobile-game-titled-_Ascend_-Mountain-Puzzles_-removebg-preview_5
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 222
+        width: 54
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4e226e7522d40440800000000000000
+      internalID: 4901273352961928778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DALL_E-2024-06-27-02.22.37-Create-a-logo-for-a-mobile-game-titled-_Ascend_-Mountain-Puzzles_-removebg-preview_6
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 213
+        width: 95
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b20635e6a33f7c60800000000000000
+      internalID: 7818024270041580210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DALL_E-2024-06-27-02.22.37-Create-a-logo-for-a-mobile-game-titled-_Ascend_-Mountain-Puzzles_-removebg-preview_7
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 249
+        width: 68
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffdb3a09533e47620800000000000000
+      internalID: 2771089489939119615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DALL_E-2024-06-27-02.22.37-Create-a-logo-for-a-mobile-game-titled-_Ascend_-Mountain-Puzzles_-removebg-preview_8
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 181
+        width: 51
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7e4150ac8f4f6960800000000000000
+      internalID: 7597378561801014908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DALL_E-2024-06-27-02.22.37-Create-a-logo-for-a-mobile-game-titled-_Ascend_-Mountain-Puzzles_-removebg-preview_9
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 179
+        width: 67
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9eca879b6dc7f060800000000000000
+      internalID: 6987279208876265117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DALL_E-2024-06-27-02.22.37-Create-a-logo-for-a-mobile-game-titled-_Ascend_-Mountain-Puzzles_-removebg-preview_10
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 180
+        width: 50
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f48b6783f8a84600800000000000000
+      internalID: 452797526453224694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DALL_E-2024-06-27-02.22.37-Create-a-logo-for-a-mobile-game-titled-_Ascend_-Mountain-Puzzles_-removebg-preview_11
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 176
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b20792bc7d6a5a4d0800000000000000
+      internalID: -3123907320754900949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DALL_E-2024-06-27-02.22.37-Create-a-logo-for-a-mobile-game-titled-_Ascend_-Mountain-Puzzles_-removebg-preview_12
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 175
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0808e741bd10ebf0800000000000000
+      internalID: -297204928153647089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DALL_E-2024-06-27-02.22.37-Create-a-logo-for-a-mobile-game-titled-_Ascend_-Mountain-Puzzles_-removebg-preview_13
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 127
+        width: 48
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34ffc3ac9f5228e50800000000000000
+      internalID: 6810047341307690819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DALL_E-2024-06-27-02.22.37-Create-a-logo-for-a-mobile-game-titled-_Ascend_-Mountain-Puzzles_-removebg-preview_14
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 127
+        width: 35
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 154e93e0a15543870800000000000000
+      internalID: 8661641553736492113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DALL_E-2024-06-27-02.22.37-Create-a-logo-for-a-mobile-game-titled-_Ascend_-Mountain-Puzzles_-removebg-preview_15
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 127
+        width: 43
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47105da88246c2550800000000000000
+      internalID: 6137390517489828212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DALL_E-2024-06-27-02.22.37-Create-a-logo-for-a-mobile-game-titled-_Ascend_-Mountain-Puzzles_-removebg-preview_16
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 128
+        width: 35
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60f42eaebd3ea1220800000000000000
+      internalID: 2457527080362069766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DALL_E-2024-06-27-02.22.37-Create-a-logo-for-a-mobile-game-titled-_Ascend_-Mountain-Puzzles_-removebg-preview_17
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 128
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd9c38ccc5bd7ef00800000000000000
+      internalID: 1146125821803743708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DALL_E-2024-06-27-02.22.37-Create-a-logo-for-a-mobile-game-titled-_Ascend_-Mountain-Puzzles_-removebg-preview_18
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 128
+        width: 41
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e9126c56bb588c30800000000000000
+      internalID: 4361837077900433889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DALL_E-2024-06-27-02.22.37-Create-a-logo-for-a-mobile-game-titled-_Ascend_-Mountain-Puzzles_-removebg-preview_19
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 106
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a105b9ed8111a2a0800000000000000
+      internalID: -6728077067105795673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DALL_E-2024-06-27-02.22.37-Create-a-logo-for-a-mobile-game-titled-_Ascend_-Mountain-Puzzles_-removebg-preview_20
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 99
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c77571e3276c7020800000000000000
+      internalID: 2340859310129903552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DALL_E-2024-06-27-02.22.37-Create-a-logo-for-a-mobile-game-titled-_Ascend_-Mountain-Puzzles_-removebg-preview_21
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 99
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d2e51c1c485d85a0800000000000000
+      internalID: -6517456001823284519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DALL_E-2024-06-27-02.22.37-Create-a-logo-for-a-mobile-game-titled-_Ascend_-Mountain-Puzzles_-removebg-preview_22
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 99
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df535d645c9334cb0800000000000000
+      internalID: -4880994051679767043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DALL_E-2024-06-27-02.22.37-Create-a-logo-for-a-mobile-game-titled-_Ascend_-Mountain-Puzzles_-removebg-preview_23
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 98
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 635a5ebb1ed5f7810800000000000000
+      internalID: 1765232803053937974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DALL_E-2024-06-27-02.22.37-Create-a-logo-for-a-mobile-game-titled-_Ascend_-Mountain-Puzzles_-removebg-preview_24
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 99
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da2138824857c2d90800000000000000
+      internalID: -7121187700303785299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DALL_E-2024-06-27-02.22.37-Create-a-logo-for-a-mobile-game-titled-_Ascend_-Mountain-Puzzles_-removebg-preview_25
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 99
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54e5b4f0e6e21eca0800000000000000
+      internalID: -5989454979188171195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DALL_E-2024-06-27-02.22.37-Create-a-logo-for-a-mobile-game-titled-_Ascend_-Mountain-Puzzles_-removebg-preview_26
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 99
+        width: 7
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bb4c02d147250b70800000000000000
+      internalID: 8864534605199068088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DALL_E-2024-06-27-02.22.37-Create-a-logo-for-a-mobile-game-titled-_Ascend_-Mountain-Puzzles_-removebg-preview_27
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 98
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd86fea1882671d60800000000000000
+      internalID: 7860860011305461980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DALL_E-2024-06-27-02.22.37-Create-a-logo-for-a-mobile-game-titled-_Ascend_-Mountain-Puzzles_-removebg-preview_28
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 98
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8b429fe0b16d2a70800000000000000
+      internalID: 8803800259140668303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DALL_E-2024-06-27-02.22.37-Create-a-logo-for-a-mobile-game-titled-_Ascend_-Mountain-Puzzles_-removebg-preview_29
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 98
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a3f6f286f0af4430800000000000000
+      internalID: 3769408393752015777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DALL_E-2024-06-27-02.22.37-Create-a-logo-for-a-mobile-game-titled-_Ascend_-Mountain-Puzzles_-removebg-preview_30
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 99
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b906e65bd3b20f950800000000000000
+      internalID: 6480727407823052955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DALL_E-2024-06-27-02.22.37-Create-a-logo-for-a-mobile-game-titled-_Ascend_-Mountain-Puzzles_-removebg-preview_31
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 99
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6094149b81f821c50800000000000000
+      internalID: 6634522537420212486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DALL_E-2024-06-27-02.22.37-Create-a-logo-for-a-mobile-game-titled-_Ascend_-Mountain-Puzzles_-removebg-preview_32
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 98
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca412b92e47b3e640800000000000000
+      internalID: 5108127948703143084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DALL_E-2024-06-27-02.22.37-Create-a-logo-for-a-mobile-game-titled-_Ascend_-Mountain-Puzzles_-removebg-preview_33
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 99
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbfef4f80822a23a0800000000000000
+      internalID: -6689496360949911619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DALL_E-2024-06-27-02.22.37-Create-a-logo-for-a-mobile-game-titled-_Ascend_-Mountain-Puzzles_-removebg-preview_34
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 98
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60ba0b8bfc608f3f0800000000000000
+      internalID: -866935439042237690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DALL_E-2024-06-27-02.22.37-Create-a-logo-for-a-mobile-game-titled-_Ascend_-Mountain-Puzzles_-removebg-preview_35
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 106
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07e5badfbfd021540800000000000000
+      internalID: 4977055914141638256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      DALL_E-2024-06-27-02.22.37-Create-a-logo-for-a-mobile-game-titled-_Ascend_-Mountain-Puzzles_-removebg-preview_0: 2516509151142947194
+      DALL_E-2024-06-27-02.22.37-Create-a-logo-for-a-mobile-game-titled-_Ascend_-Mountain-Puzzles_-removebg-preview_1: 8933957469713319212
+      DALL_E-2024-06-27-02.22.37-Create-a-logo-for-a-mobile-game-titled-_Ascend_-Mountain-Puzzles_-removebg-preview_10: 452797526453224694
+      DALL_E-2024-06-27-02.22.37-Create-a-logo-for-a-mobile-game-titled-_Ascend_-Mountain-Puzzles_-removebg-preview_11: -3123907320754900949
+      DALL_E-2024-06-27-02.22.37-Create-a-logo-for-a-mobile-game-titled-_Ascend_-Mountain-Puzzles_-removebg-preview_12: -297204928153647089
+      DALL_E-2024-06-27-02.22.37-Create-a-logo-for-a-mobile-game-titled-_Ascend_-Mountain-Puzzles_-removebg-preview_13: 6810047341307690819
+      DALL_E-2024-06-27-02.22.37-Create-a-logo-for-a-mobile-game-titled-_Ascend_-Mountain-Puzzles_-removebg-preview_14: 8661641553736492113
+      DALL_E-2024-06-27-02.22.37-Create-a-logo-for-a-mobile-game-titled-_Ascend_-Mountain-Puzzles_-removebg-preview_15: 6137390517489828212
+      DALL_E-2024-06-27-02.22.37-Create-a-logo-for-a-mobile-game-titled-_Ascend_-Mountain-Puzzles_-removebg-preview_16: 2457527080362069766
+      DALL_E-2024-06-27-02.22.37-Create-a-logo-for-a-mobile-game-titled-_Ascend_-Mountain-Puzzles_-removebg-preview_17: 1146125821803743708
+      DALL_E-2024-06-27-02.22.37-Create-a-logo-for-a-mobile-game-titled-_Ascend_-Mountain-Puzzles_-removebg-preview_18: 4361837077900433889
+      DALL_E-2024-06-27-02.22.37-Create-a-logo-for-a-mobile-game-titled-_Ascend_-Mountain-Puzzles_-removebg-preview_19: -6728077067105795673
+      DALL_E-2024-06-27-02.22.37-Create-a-logo-for-a-mobile-game-titled-_Ascend_-Mountain-Puzzles_-removebg-preview_2: 7957362252051682011
+      DALL_E-2024-06-27-02.22.37-Create-a-logo-for-a-mobile-game-titled-_Ascend_-Mountain-Puzzles_-removebg-preview_20: 2340859310129903552
+      DALL_E-2024-06-27-02.22.37-Create-a-logo-for-a-mobile-game-titled-_Ascend_-Mountain-Puzzles_-removebg-preview_21: -6517456001823284519
+      DALL_E-2024-06-27-02.22.37-Create-a-logo-for-a-mobile-game-titled-_Ascend_-Mountain-Puzzles_-removebg-preview_22: -4880994051679767043
+      DALL_E-2024-06-27-02.22.37-Create-a-logo-for-a-mobile-game-titled-_Ascend_-Mountain-Puzzles_-removebg-preview_23: 1765232803053937974
+      DALL_E-2024-06-27-02.22.37-Create-a-logo-for-a-mobile-game-titled-_Ascend_-Mountain-Puzzles_-removebg-preview_24: -7121187700303785299
+      DALL_E-2024-06-27-02.22.37-Create-a-logo-for-a-mobile-game-titled-_Ascend_-Mountain-Puzzles_-removebg-preview_25: -5989454979188171195
+      DALL_E-2024-06-27-02.22.37-Create-a-logo-for-a-mobile-game-titled-_Ascend_-Mountain-Puzzles_-removebg-preview_26: 8864534605199068088
+      DALL_E-2024-06-27-02.22.37-Create-a-logo-for-a-mobile-game-titled-_Ascend_-Mountain-Puzzles_-removebg-preview_27: 7860860011305461980
+      DALL_E-2024-06-27-02.22.37-Create-a-logo-for-a-mobile-game-titled-_Ascend_-Mountain-Puzzles_-removebg-preview_28: 8803800259140668303
+      DALL_E-2024-06-27-02.22.37-Create-a-logo-for-a-mobile-game-titled-_Ascend_-Mountain-Puzzles_-removebg-preview_29: 3769408393752015777
+      DALL_E-2024-06-27-02.22.37-Create-a-logo-for-a-mobile-game-titled-_Ascend_-Mountain-Puzzles_-removebg-preview_3: 7924234383084460421
+      DALL_E-2024-06-27-02.22.37-Create-a-logo-for-a-mobile-game-titled-_Ascend_-Mountain-Puzzles_-removebg-preview_30: 6480727407823052955
+      DALL_E-2024-06-27-02.22.37-Create-a-logo-for-a-mobile-game-titled-_Ascend_-Mountain-Puzzles_-removebg-preview_31: 6634522537420212486
+      DALL_E-2024-06-27-02.22.37-Create-a-logo-for-a-mobile-game-titled-_Ascend_-Mountain-Puzzles_-removebg-preview_32: 5108127948703143084
+      DALL_E-2024-06-27-02.22.37-Create-a-logo-for-a-mobile-game-titled-_Ascend_-Mountain-Puzzles_-removebg-preview_33: -6689496360949911619
+      DALL_E-2024-06-27-02.22.37-Create-a-logo-for-a-mobile-game-titled-_Ascend_-Mountain-Puzzles_-removebg-preview_34: -866935439042237690
+      DALL_E-2024-06-27-02.22.37-Create-a-logo-for-a-mobile-game-titled-_Ascend_-Mountain-Puzzles_-removebg-preview_35: 4977055914141638256
+      DALL_E-2024-06-27-02.22.37-Create-a-logo-for-a-mobile-game-titled-_Ascend_-Mountain-Puzzles_-removebg-preview_4: 5638623189775304852
+      DALL_E-2024-06-27-02.22.37-Create-a-logo-for-a-mobile-game-titled-_Ascend_-Mountain-Puzzles_-removebg-preview_5: 4901273352961928778
+      DALL_E-2024-06-27-02.22.37-Create-a-logo-for-a-mobile-game-titled-_Ascend_-Mountain-Puzzles_-removebg-preview_6: 7818024270041580210
+      DALL_E-2024-06-27-02.22.37-Create-a-logo-for-a-mobile-game-titled-_Ascend_-Mountain-Puzzles_-removebg-preview_7: 2771089489939119615
+      DALL_E-2024-06-27-02.22.37-Create-a-logo-for-a-mobile-game-titled-_Ascend_-Mountain-Puzzles_-removebg-preview_8: 7597378561801014908
+      DALL_E-2024-06-27-02.22.37-Create-a-logo-for-a-mobile-game-titled-_Ascend_-Mountain-Puzzles_-removebg-preview_9: 6987279208876265117
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
